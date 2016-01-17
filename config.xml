@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+	xmlns:gap = "http://phonegap.com/ns/1.0"
+	id        = "com.phonegap.example"
+	version   = "1.0.0">
+	
+<name> App Entorno </name>
+<icon src="i.gif" gap:platform="android" gap:density="ldpi" />
+<gap:splash src="o.gif" gap:platform="android" gap:density="ldpi" />
+<gap:splash src="o.gif" gap:platform="android" gap:density="mdpi" />
+<gap:splash src="o.gif" gap:platform="android" gap:density="hdpi" />
+<gap:splash src="o.gif" gap:platform="android" gap:density="xhdpi" />
+
+
+<description>
+informatica
+</description>
+<preference name="permissions" value="none"/>
+
+</widget>
