@@ -6,18 +6,19 @@
 	
 <name> App Entorno </name>
 <icon src="i.jpg" gap:platform="android" gap:density="ldpi" />
-<gap:splash src="o.gif" gap:platform="android" qualifier="ldpi" />
-<gap:splash src="o.gif" gap:platform="android" qualifier="mdpi" />
-<gap:splash src="o.gif" gap:platform="android" qualifier="hdpi" />
-<gap:splash src="o.gif" gap:platform="android" qualifier="xhdpi" />
-<gap:splash src="o.gif" gap:platform="android" qualifier="fr-xhdpi" />
-<gap:splash src="o.gif" gap:platform="android" qualifier="port-xxhdpi" />
-<gap:splash src="o.gif" gap:platform="android" qualifier="land-xxhdpi" />
+<gap:splash  gap:platform="android" gap:density="ldpi" />
+<gap:splash src="o.gif" gap:platform="android" gap:qualifier="mdpi"  />
+<gap:splash src="o.gif" gap:platform="android" gap:qualifier="hdpi" />
+<gap:splash src="o.gif" gap:platform="android" gap:qualifier="xhdpi" />
+<gap:splash src="o.gif" gap:platform="android" gap:qualifier="fr-xhdpi" />
+<gap:splash src="o.gif" gap:platform="android" gap:qualifier="port-xxhdpi" />
+<gap:splash src="o.gif" gap:platform="android" gap:qualifier="land-xxhdpi" />
 
 
 <description>
 informatica
 </description>
+<content src="index.html" />
 <preference name="permissions" value="none"/>
 
 </widget>
