@@ -6,13 +6,13 @@
 	
 <name> App Entorno </name>
 <icon src="i.jpg" gap:platform="android" gap:density="ldpi" />
-<splash src="o.gif" gap:platform="android" qualifier="ldpi" />
-<splash src="o.gif" gap:platform="android" qualifier="mdpi" />
-<splash src="o.gif" gap:platform="android" qualifier="hdpi" />
-<splash src="o.gif" gap:platform="android" qualifier="xhdpi" />
-<splash src="o.gif" gap:platform="android" qualifier="fr-xhdpi" />
-<splash src="o.gif" gap:platform="android" qualifier="port-xxhdpi" />
-<splash src="o.gif" gap:platform="android" qualifier="land-xxhdpi" />
+<gap:splash src="o.gif" gap:platform="android" qualifier="ldpi" />
+<gap:splash src="o.gif" gap:platform="android" qualifier="mdpi" />
+<gap:splash src="o.gif" gap:platform="android" qualifier="hdpi" />
+<gap:splash src="o.gif" gap:platform="android" qualifier="xhdpi" />
+<gap:splash src="o.gif" gap:platform="android" qualifier="fr-xhdpi" />
+<gap:splash src="o.gif" gap:platform="android" qualifier="port-xxhdpi" />
+<gap:splash src="o.gif" gap:platform="android" qualifier="land-xxhdpi" />
 
 
 <description>
